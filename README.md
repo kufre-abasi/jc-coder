@@ -40,7 +40,7 @@ src="https://img.shields.io/github/followers/JC-Coder?logo=github&style=for-the-
 <p align="left">
   <a href="https://www.linkedin.com/in/joseph-jc-coder-19504325a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   <a href="https://www.github.com/JC-Coder" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-  <a href="https://x.com/jc_coder1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />View my twitter profile</a>
+<a href="https://x.com/jc_coder1" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/d651eca8-7f76-4ff8-a8cc-858eb2c93869" height="32" width="32" /></a>
 </p>
 
 ## 🏆 Github Trophy
